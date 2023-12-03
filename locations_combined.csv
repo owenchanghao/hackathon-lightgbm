@@ -1,0 +1,89 @@
+Location,Distribution Center,Forwarding Office,Manufacturing Facility,Country
+"Netherlands, Venray Distribution Center (NL_DC_Venray)",1,0,0,Netherlands
+"China, Shanghai Distribution Center (CN_DC_Shanghai)",1,0,0,China
+"Netherlands, HLD Distribution Center (NL_DC_HLD)",1,0,0,Netherlands
+"Australia, Perth Distribution Center (AU_DC_Perth)",1,0,0,Australia
+"Spain, Iberia Sant Boi Distribution Center (ES_DC_IberiaSantBoi)",1,0,0,Spain
+"Australia, Sydney Distribution Center (AU_DC_Sydney)",1,0,0,Australia
+"United States, Mechanicsburg Distribution Center (US_DC_Mechanicsburg)",1,0,0,United States
+"Germany, BNDch Forwarding Office (DE_FO_BNDch)",0,1,0,Germany
+"Australia, Melbourne Distribution Center (AU_DC_Melbourne)",1,0,0,Australia
+"United States, Athens Distribution Center (US_DC_Athens)",1,0,0,United States
+"Sweden, Orebro Distribution Center (SE_DC_Orebro)",1,0,0,Sweden
+"United States, LAD Distribution Center (US_DC_LAD)",1,0,0,United States
+"France, Evreux Distribution Center (FR_DC_Evreux)",1,0,0,France
+"United Kingdom, Telford Distribution Center (GB_DC_Telford)",1,0,0,United Kingdom
+"Australia, Adelaide Distribution Center (AU_DC_Adelaide)",1,0,0,Australia
+"Italy, Venaria Distribution Center (IT_DC_Venaria)",1,0,0,Italy
+"Netherlands, BNDch Forwarding Office (NL_FO_BNDch)",0,1,0,Netherlands
+"United States, PED Distribution Center (US_DC_PED)",1,0,0,United States
+"Hungary, CEELog Budapest Distribution Center (HU_DC_CEELog_Budapest)",1,0,0,Hungary
+"China, Wuhan Distribution Center (CN_DC_Wuhan)",1,0,0,China
+Out of Stock (OOS_DRP),0,0,0,Unknown
+"Poland, Northern Forwarding Office (PL_FO_Northern)",0,1,0,Poland
+"Australia, Brisbane Distribution Center (AU_DC_Brisbane)",1,0,0,Australia
+"Mexico, Monterrey3 Manufacturing Facility (MX_MF_Monterrey3)",0,0,1,Mexico
+"Australia, ALD Distribution Center (AU_DC_ALD)",1,0,0,Australia
+"France, FRL Distribution Center (FR_DC_FRL)",1,0,0,France
+"China, SSPA Manufacturing Facility (CN_MF_SSPA)",0,0,1,China
+"Australia, Darwin Distribution Center (AU_DC_Darwin)",1,0,0,Australia
+"Taiwan, Taiwan Distribution Center (TW_DC_Taiwan)",1,0,0,Taiwan
+"Japan, JAD Distribution Center (JP_DC_JAD)",1,0,0,Japan
+"Spain, SPL Distribution Center (ES_DC_SPL)",1,0,0,Spain
+"China, SHD Distribution Center (CN_DC_SHD)",1,0,0,China
+"Australia, Launceston Distribution Center (AU_DC_Launceston)",1,0,0,Australia
+"Singapore, ASD Distribution Center (SG_DC_ASD)",1,0,0,Singapore
+"South Korea, Paju Distribution Center (KR_DC_Paju)",1,0,0,South Korea
+"Philippines, PHL Distribution Center (PH_DC_PHL)",1,0,0,Philippines
+"China, Xinjiang Distribution Center (CN_DC_Xinjiang)",1,0,0,China
+"France, AUT Newlog Distribution Center (FR_DC_AUTNewlog)",1,0,0,France
+"Australia, Mount Louisa Distribution Center (AU_DC_MountLouisa)",1,0,0,Australia
+"Philippines, PDC Distribution Center (PH_DC_PDC)",1,0,0,Philippines
+"United Kingdom, UKL Distribution Center (GB_DC_UKL)",1,0,0,United Kingdom
+"United States, Missouri Manufacturing Facility (US_MF_Missouri)",0,0,1,United States
+"Italy, ITL Distribution Center (IT_DC_ITL)",1,0,0,Italy
+"Hong Kong, Hong Kong Distribution Center (HK_DC_HongKong)",1,0,0,Hong Kong
+"France, MBD Manufacturing Facility (FR_MF_MBD)",0,0,1,France
+"China, SWEEC Manufacturing Facility (CN_MF_SWEEC)",0,0,1,China
+"United States, Chino Distribution Center (US_DC_Chino)",1,0,0,United States
+"Philippines, P1F Manufacturing Facility (PH_MF_P1F)",0,0,1,Philippines
+"Denmark, Ringsted Distribution Center (DK_DC_Ringsted)",1,0,0,Denmark
+"Indonesia, IDL Distribution Center (ID_DC_IDL)",1,0,0,Indonesia
+"Spain, Iberia Sant Boi AS90 Distribution Center (ES_DC_IberiaSantBoi_AS90)",1,0,0,Spain
+"China, ChengDu Distribution Center (CN_DC_ChengDu)",1,0,0,China
+"China, Beijing Distribution Center (CN_DC_Beijing)",1,0,0,China
+"Singapore, Overseas Asia Distribution Center (SG_DC_OVERSEAS_ASIA)",1,0,0,Singapore
+"Singapore, SGL Distribution Center (SG_DC_SGL)",1,0,0,Singapore
+"China, GuangZhou Distribution Center (CN_DC_GuangZhou)",1,0,0,China
+"Thailand, THL Distribution Center (TH_DC_THL)",1,0,0,Thailand
+"Mexico, Tlaxcala Manufacturing Facility (MX_MF_Tlaxcala)",0,0,1,Mexico
+"Vietnam, VNL Distribution Center (VN_DC_VNL)",1,0,0,Vietnam
+"Belgium, BNDch Forwarding Office (BE_FO_BNDch)",0,1,0,Belgium
+"Hong Kong, HKL Distribution Center (HK_DC_HKL)",1,0,0,Hong Kong
+"China, SBMV Manufacturing Facility (CN_MF_SBMV)",0,0,1,China
+"Ireland, IEL Distribution Center (IE_DC_IEL)",1,0,0,Ireland
+"United Kingdom, NOC Telford Distribution Center (GB_DC_NOC_Telford)",1,0,0,United Kingdom
+"United States, COF Manufacturing Facility (US_MF_COF)",0,0,1,United States
+"Vietnam, Vietnam Distribution Center (VN_DC_Vietnam)",1,0,0,Vietnam
+"New Zealand, NZL Distribution Center (NZ_DC_NZL)",1,0,0,New Zealand
+"Spain, Himel Distribution Center (ES_DC_Himel)",1,0,0,Spain
+"Mexico, MXF Manufacturing Facility (MX_MF_MXF)",0,0,1,Mexico
+"United States, Lexington Manufacturing Facility (US_MF_Lexington)",0,0,1,United States
+"United Kingdom, Telford Adaptation Distribution Center (GB_DC_Telford_Adaptation)",1,0,0,United Kingdom
+"Malaysia, MYL Distribution Center (MY_DC_MYL)",1,0,0,Malaysia
+"Japan, Osaka Distribution Center (JP_DC_Osaka)",1,0,0,Japan
+"United States, Mechanicsburg BMS Distribution Center (US_DC_Mechanicsburg_BMS)",1,0,0,United States
+"Australia, GEPS CROSS Manufacturing Facility (AU_MF_GEPS_CROSS)",0,0,1,Australia
+"Mexico, Reynosa Manufacturing Facility (MX_MF_Reynosa)",0,0,1,Mexico
+"New Zealand, Auckland Distribution Center (NZ_DC_Auckland)",1,0,0,New Zealand
+"China, WPF Wuxi Manufacturing Facility (CN_MF_WPF_Wuxi)",0,0,1,China
+"Singapore, AVF Distribution Center (SG_DC_AVF)",1,0,0,Singapore
+"United Arab Emirates, DUD Distribution Center (AE_DC_DUD)",1,0,0,United Arab Emirates
+"Mexico, Monterrey6 Manufacturing Facility (MX_MF_Monterrey6)",0,0,1,Mexico
+"United States, Chino BMS Distribution Center (US_DC_Chino_BMS)",1,0,0,United States
+"Denmark, EOD Distribution Center (DK_DC_EOD)",1,0,0,Denmark
+"Philippines, Sephil Philippines Distribution Center (PH_DC_Sephil_Philippines)",1,0,0,Philippines
+"Thailand, STL Thailand Distribution Center (TH_DC_STL_Thailand)",1,0,0,Thailand
+"United States, Huntington Manufacturing Facility (US_MF_Huntington)",0,0,1,United States
+"United States, Cedar Rapids Manufacturing Facility (US_MF_CedarRapids)",0,0,1,United States
+"Indonesia, SEI Distribution Center (ID_DC_SEI_Indonesia)",1,0,0,Indonesia

@@ -1,0 +1,89 @@
+Site,City,Country,Latitude,Longitude
+NL_DC_Venray,Venray,Netherlands,51.525,5.9742
+CN_DC_Shanghai,Shanghai,China,31.2304,121.4737
+NL_DC_HLD,HLD,Netherlands,52.3676,4.9041
+AU_DC_Perth,Perth,Australia,-31.9505,115.8605
+ES_DC_IberiaSantBoi,Iberia Sant Boi,Spain,41.3451,2.0408
+AU_DC_Sydney,Sydney,Australia,-33.8688,151.2093
+US_DC_Mechanicsburg,Mechanicsburg,United States,40.214,-77.0086
+DE_FO_BNDch,BNDch,Germany,51.1657,10.4515
+AU_DC_Melbourne,Melbourne,Australia,-37.8136,144.9631
+US_DC_Athens,Athens,United States,33.9519,-83.3576
+SE_DC_Orebro,Orebro,Sweden,59.2753,15.2134
+US_DC_LAD,LAD,United States,30.4583,-91.1403
+FR_DC_Evreux,Evreux,France,49.0242,1.1508
+GB_DC_Telford,Telford,United Kingdom,52.6784,-2.4453
+AU_DC_Adelaide,Adelaide,Australia,-34.9285,138.6007
+IT_DC_Venaria,Venaria,Italy,45.1375,7.6239
+NL_FO_BNDch,BNDch,Netherlands,52.1326,5.2913
+US_DC_PED,PED,United States,36.7389,-108.2123
+HU_DC_CEELog_Budapest,CEELog Budapest,Hungary,47.4979,19.0402
+CN_DC_Wuhan,Wuhan,China,30.5928,114.3055
+OOS_DRP,OOS_DRP,,0,0
+PL_FO_Northern,Northern,Poland,53.1355,23.1728
+AU_DC_Brisbane,Brisbane,Australia,-27.4698,153.0251
+MX_MF_Monterrey3,Monterrey3,Mexico,25.4383,-100.9737
+AU_DC_ALD,ALD,Australia,-27.4698,153.0251
+FR_DC_FRL,FRL,France,49.0242,1.1508
+CN_MF_SSPA,SSPA,China,34.3416,108.9398
+AU_DC_Darwin,Darwin,Australia,-12.4634,130.8456
+TW_DC_Taiwan,Taiwan,Taiwan,23.6978,120.9605
+JP_DC_JAD,JAD,Japan,34.6937,135.5022
+ES_DC_SPL,SPL,Spain,41.3741,2.1371
+CN_DC_SHD,SHD,China,31.2304,121.4737
+AU_DC_Launceston,Launceston,Australia,-41.4298,147.1571
+SG_DC_ASD,ASD,Singapore,1.3521,103.8198
+KR_DC_Paju,Paju,South Korea,37.8917,126.715
+PH_DC_PHL,PHL,Philippines,13.4126,122.565
+CN_DC_Xinjiang,Xinjiang,China,41.7658,86.1562
+FR_DC_AUTNewlog,AUTNewlog,France,49.0242,1.1508
+AU_DC_MountLouisa,Mount Louisa,Australia,-19.2714,146.8219
+PH_DC_PDC,PDC,Philippines,13.4126,122.565
+GB_DC_UKL,UKL,United Kingdom,52.6784,-2.4453
+US_MF_Missouri,Missouri,United States,38.5739,-92.6034
+IT_DC_ITL,ITL,Italy,41.9028,12.4964
+HK_DC_HongKong,Hong Kong,Hong Kong,22.3193,114.1694
+FR_MF_MBD,MBD,France,49.0242,1.1508
+CN_MF_SWEEC,SWEEC,China,31.9686,99.9018
+US_DC_Chino,Chino,United States,34.0122,-117.6889
+PH_MF_P1F,P1F,Philippines,13.4126,122.565
+DK_DC_Ringsted,Ringsted,Denmark,55.4434,11.7893
+ID_DC_IDL,IDL,Indonesia,-6.2088,106.8456
+ES_DC_IberiaSantBoi_AS90,IberiaSantBoi_AS90,Spain,41.3451,2.0408
+CN_DC_ChengDu,ChengDu,China,30.5728,104.0668
+CN_DC_Beijing,Beijing,China,39.9042,116.4074
+SG_DC_OVERSEAS_ASIA,OVERSEAS_ASIA,Singapore,1.3521,103.8198
+SG_DC_SGL,SGL,Singapore,1.3521,103.8198
+CN_DC_GuangZhou,GuangZhou,China,23.1291,113.2644
+TH_DC_THL,THL,Thailand,15.87,100.9925
+MX_MF_Tlaxcala,Tlaxcala,Mexico,19.3191,-98.2035
+VN_DC_VNL,VNL,Vietnam,14.0583,108.2772
+BE_FO_BNDch,BNDch,Belgium,50.8503,4.3517
+HK_DC_HKL,HKL,Hong Kong,22.3193,114.1694
+CN_MF_SBMV,SBMV,China,31.9686,99.9018
+IE_DC_IEL,IEL,Ireland,53.3498,-6.2603
+GB_DC_NOC_Telford,NOC Telford,United Kingdom,52.6784,-2.4453
+US_MF_COF,COF,United States,38.5739,-92.6034
+VN_DC_Vietnam,Vietnam,Vietnam,14.0583,108.2772
+NZ_DC_NZL,NZL,New Zealand,-40.9006,174.886
+ES_DC_Himel,Himel,Spain,41.3451,2.0408
+MX_MF_MXF,MXF,Mexico,19.4326,-99.1332
+US_MF_Lexington,Lexington,United States,38.0406,-84.5037
+GB_DC_Telford_Adaptation,Telford_Adaptation,United Kingdom,52.6784,-2.4453
+MY_DC_MYL,MYL,Malaysia,3.139,101.6869
+JP_DC_Osaka,Osaka,Japan,34.6937,135.5022
+US_DC_Mechanicsburg_BMS,Mechanicsburg_BMS,United States,40.214,-77.0086
+AU_MF_GEPS_CROSS,GEPS CROSS,Australia,-27.4698,153.0251
+MX_MF_Reynosa,Reynosa,Mexico,26.0745,-98.2971
+NZ_DC_Auckland,Auckland,New Zealand,-36.8485,174.7633
+CN_MF_WPF_Wuxi,WPF Wuxi,China,31.5825,120.3022
+SG_DC_AVF,AVF,Singapore,1.3521,103.8198
+AE_DC_DUD,DUD,United Arab Emirates,25.2769,55.2963
+MX_MF_Monterrey6,Monterrey6,Mexico,25.4383,-100.9737
+US_DC_Chino_BMS,Chino_BMS,United States,34.0122,-117.6889
+DK_DC_EOD,EOD,Denmark,55.4434,11.7893
+PH_DC_Sephil_Philippines,Sephil_Philippines,Philippines,13.4126,122.565
+TH_DC_STL_Thailand,STL_Thailand,Thailand,15.87,100.9925
+US_MF_Huntington,Huntington,United States,38.4192,-82.4452
+US_MF_CedarRapids,CedarRapids,United States,41.9779,-91.6656
+ID_DC_SEI_Indonesia,SEI_Indonesia,Indonesia,-6.2088,106.8456

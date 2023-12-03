@@ -1,0 +1,73 @@
+train-data FEATURES:
+
+* index: we might drop it since it doesn't mean anything.
+
+* id_product: we thought to drop it but a staff member seemed horrified by this idea.
+
+* All geographical features (Region, Country, Site, Operations, Zone, Cluster): We might replace all those features by longitude and latitude coordinates of the sites in order to reduce features and to establish actual euclidian distance between observations.
+
+* Reference proxy: Since there are too many proxies (22406), we're not going to one hot encode it but rather use target encoding or Catboost encoding.
+
+* Division proxy: Since there are only 3 divisions, we're going to one hot encode this feature.
+
+* Product line proxy: Since there are only 6 different lines, we're going to one hot encode this feature.
+
+* Customer Persona proxy: there are 72 different values. We're going to use target encoding or Catboost encoding.
+
+* Strategic Product Family proxy: There are 19 different values. We can discuss on whether to use target or one hot encoding. (Would rather target encode or Catboost since we accumulate lots of values).
+
+* Product life cycle: There are 4 different values including NaN which is actually the most proeminent. Therefore, we're going to impute the NaN as an "Unkown" class and we're going to one hot encode the feature.
+
+* Date: There are 9 diferent time spans. We can encode them ordinally.
+
+* NaN imputing for Month 1: We will impute the missing value by a (weighted) mean of the 2nd and 3rd month by linear regression.
+
+
+
+
+
+Notes: 
+    
+    - we will use np.round() at the end of our predictions since labels are ints.
+
+    - some observations seem similar (lots of 0 values for months, same site...) and we have lots of data (2M) therefore we might undersample some data. We might do it after doing a "normal" submission
+    
+    - Please remember to normalize data (months & date) months when using models other than trees (don't normalize for trees).
+    
+    
+worldbank_inflation_data.csv:
+
+KEY: Country --> Cluster (train-data) maybe ?? Inner merge on the train set to keep only relevant countries
+
+- Compute the average values for each country for each quarter month that is located in the train set:
+    ('may-aug 2021':2,
+ 'jan-apr 2021': 1,
+ 'jan-apr 2023':7,
+ 'sep-dec 2020': 0,
+ 'jan-apr 2022':4,
+ 'sep-dec 2021':3,
+ 'sep-dec 2022':6,
+ 'may-aug 2022':5,
+ 'may-jul 2023':8)
+ 
+ worldbank_economic_data.csv:
+ 
+ Best columns to keep: GDP, Final Consumption Expenditure Growth, Imports and Exports.
+ 
+ Again you need to convert yearly amounts to the quarter dates of the train set and inner merge on countries.
+ 
+ GSCPI_data.csv: 
+ 
+ Just compute the average on the quarter dates of the train set and inner merge.
+ 
+ LPIextend.csv:
+ 
+ - We might include some info such as Population and growth rate
+ 
+ 
+
+
+    
+    
+
+
