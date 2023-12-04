@@ -1,14 +1,17 @@
-# Hackathon Team 5
+# Hi!Paris Hi!ckathon 2023
 
 
+## Background
 
-## Getting started
+### Organizor
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+This hackathon is organized by Hi! Paris, the interdisciplinary research and teaching Center for Data Analytics and Artificial Intelligence.
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+### Location
 
-## Add your files
+ENSAE Paris (L'École nationale de la statistique et de l'administration économique de Paris)
+
+### Links to 
 
 - [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
 - [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
