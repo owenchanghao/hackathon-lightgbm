@@ -1,6 +1,6 @@
 # Hi!ckathon 2023
 
-The main document for the hackathon is *hackathon.ipynb*. The model and the pre-processing steps are separated in ** and **.
+The main document for the hackathon is *hackathon.ipynb*. The model and the pre-processing steps are separated in *model.ipynb* and *preprocessing.ipynb*.
 
 ## Background
 
