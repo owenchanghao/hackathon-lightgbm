@@ -1,6 +1,6 @@
 # Hi!ckathon 2023
 
-The main document for the hackathon is **.
+The main document for the hackathon is *hackathon.ipynb*. The model and the pre-processing steps are separated in ** and **.
 
 ## Background
 
